@@ -66,9 +66,6 @@ $ cd Wordle_Clone
 # Install dependencies
 $ npm install
 
-# Init amplify project and push it to the cloud 
-$ amplify init 
-$ amplify push
 
 # Run the app
 $ npm start
