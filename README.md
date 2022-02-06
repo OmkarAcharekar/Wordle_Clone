@@ -8,7 +8,7 @@
   <br>
   <img src="https://github.com/OmkarAcharekar/Wordle_Clone/blob/master/assets/eererererer.jpg" alt="Markdownify" width="200"></a>
   <br style="font-size:300%;">
-   ChatValve
+   Wordle_Clone
   <br>
 </h1>
 
