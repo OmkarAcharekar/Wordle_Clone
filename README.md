@@ -1,5 +1,5 @@
 # Wordle_Clone
-Recreated the Wordle  Game  that currently taking internet by storm . The main goal of the game is to guess the hidden word in 6 tries. 
+
 
 
 
@@ -12,7 +12,7 @@ Recreated the Wordle  Game  that currently taking internet by storm . The main g
   <br>
 </h1>
 
-<h4 align="center">An  Real Time  End-To-End  Encrypted Messaging  Application</h4>
+<h4 align="center">Recreated the Wordle  Game  that currently taking internet by storm</h4>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![React_Native](https://img.shields.io/badge/react%20native-v0.66-orange)
@@ -30,7 +30,25 @@ Recreated the Wordle  Game  that currently taking internet by storm . The main g
   <a href="#license">License</a>
 </p>
 
+Screenshots
+-----------
 
+<table>
+  <tr>
+     <td><img src="https://github.com/OmkarAcharekar/Wordle_Clone/blob/master/assets/Screenshot_2022-02-06-14-38-34-00_f73b71075b1de7323614b647fe394240.jpg" width="300" height="450"></td>
+     <td><img src="https://github.com/OmkarAcharekar/Wordle_Clone/blob/master/assets/Screenshot_2022-02-06-14-39-19-11_f73b71075b1de7323614b647fe394240.jpg" width="300" height="450"></td>
+    <td><img src="https://github.com/OmkarAcharekar/Wordle_Clone/blob/master/assets/Screenshot_2022-02-06-14-39-30-76_f73b71075b1de7323614b647fe394240.jpg" width="300" height="450"></td>
+   
+  </tr>
+   <tr>
+     <td><img src="https://github.com/OmkarAcharekar/Wordle_Clone/blob/master/assets/Screenshot_2022-02-06-14-39-40-14_f73b71075b1de7323614b647fe394240.jpg" width="300" height="450"></td>
+     <td><img src="https://github.com/OmkarAcharekar/Wordle_Clone/blob/master/assets/Screenshot_2022-02-06-14-49-54-12_f73b71075b1de7323614b647fe394240.jpg" width="300" height="450"></td>
+   
+      
+   
+  </tr>
+  
+ </table>
 
 
 
