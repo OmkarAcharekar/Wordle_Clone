@@ -6,7 +6,7 @@ Recreated the Wordle  Game  that currently taking internet by storm . The main g
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/OmkarAcharekar/Signal_Clone/blob/master/assets/images/bubble-chat.png" alt="Markdownify" width="200"></a>
+  <img src="https://github.com/OmkarAcharekar/Wordle_Clone/blob/master/assets/eererererer.jpg" alt="Markdownify" width="200"></a>
   <br style="font-size:300%;">
    ChatValve
   <br>
@@ -32,21 +32,6 @@ Recreated the Wordle  Game  that currently taking internet by storm . The main g
 
 
 
-## Key Features
-
-* Encryption and Security
-  - Messages are encrypted on the sender system or device, and only the intended recipient can decrypt it.
-* Registration page and contact integration
-  - App require users to sign in with a phone number. It sends an SMS confirmation code for security reasons. After registering, users  can login in their Account.
-  
-* Offers both private and group chats. 
-  -  A group chat option lets users create a group and chat with multiple people at the same time.
-  
-* Push notification
-  -  It keep users active within the app and inform them when new messages have arrived or someone comes online.
-  
-* Messages
-  - Users can send various type of messages like Audio Message,Text Messages ,Images and can also see user online status.
 
 
 ## How To Use
@@ -55,10 +40,10 @@ To clone and run this application, you should have [Git](https://git-scm.com/dow
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/OmkarAcharekar/Signal_Clone.git
+$ git clone https://github.com/OmkarAcharekar/Wordle_Clone.git
 
 # Go into the repository
-$ cd Signal_Clone
+$ cd Wordle_Clone
 
 # Install dependencies
 $ npm install
